@@ -1,0 +1,21 @@
+.header {
+  height: 61px;
+  width: 100%;
+  left: 760px;
+  top: -512px;
+  border-radius: 0px;
+  background: #fefefe;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.icon {
+  height: 22.5px;
+  width: 22.5002498626709px;
+  left: 4.5px;
+  top: 3.75px;
+  border-radius: 0px;
+  color: #5569ff;
+  margin-right: 20px;
+}
